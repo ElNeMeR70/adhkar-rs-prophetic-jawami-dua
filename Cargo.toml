@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-prophetic-jawami-dua"
+version = "1.0.0"
+edition = "2021"
+description = "Jawami' Al-Kalim Comprehensive Prophetic Supplications Corpus"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_prophetic_jawami_dua"
+path = "main.rs"
